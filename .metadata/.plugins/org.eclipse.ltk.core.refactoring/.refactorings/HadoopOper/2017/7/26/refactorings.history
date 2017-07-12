@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;com.huike.action07&apos; to &apos;Test/src&apos;&#x0D;&#x0A;- Original project: &apos;HadoopOper&apos;&#x0D;&#x0A;- Destination element: &apos;Test/src&apos;&#x0D;&#x0A;- Original element: &apos;HadoopOper/src/main/java/com.huike.action07&apos;" description="Copy package" destination="=Test/src" element1="/src\/main\/java&lt;com.huike.action07" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1498898407066" version="1.0"/>
+</session>
